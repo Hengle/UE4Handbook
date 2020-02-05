@@ -30,6 +30,7 @@
 + [Linux](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Linux.md)
 + [VisualStudio](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/VisualStudio.md)
 + [VisualStudioCode](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/VisualStudioCode.md)
++ [C#](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/CSharp.md)
 
 # 美术方向
 + [场景、地形](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/EnvironmentDesign.md)
