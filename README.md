@@ -8,7 +8,7 @@
 # 关于入门
     本markdown文件类似目录，具有导向作用。
     没有天生的大佬，我喜欢学，恰巧你也喜欢学，便一起学习。
-+ [GoGoGo]()
++ [GoGoGo](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/AboutStart.md)
 + [结合视频食用，口感更佳==>B站](http://www.bilibili.com)
 
 # 程序方向
