@@ -13,28 +13,31 @@
 
 # 程序方向
 ## UE4
-+ GamePlay框架
-+ Blueprint蓝图
-+ C++魔改版
-+ Editor编辑器
-+ python
++ [GamePlay框架](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/GamePlay.md)
++ [Blueprint蓝图](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Blueprint.md)
++ [C++魔改版](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/C++Client.md)
++ [Editor编辑器](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Editor.md)
++ [Python脚本](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Python.md)
 ## 服务端
-+ ProtocolBuffers
-+ C++
-+ Go
-+ Node.js
-+ Database
++ [ProtocolBuffers](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/ProtocolBuffers.md)
++ [C++](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/C++Service.md)
++ [Go](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Golang.md)
++ [Node.js](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Node.js.md)
++ [Database](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Database.md)
 ## 杂谈
-+ IIS
-+ Linux
++ [Git](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Git.md)
++ [IIS](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/IIS.md)
++ [Linux](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Linux.md)
++ [VisualStudio](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/VisualStudio.md)
++ [VisualStudioCode](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/VisualStudioCode.md)
 
 # 美术方向
-+ 场景、地形
-+ 模型、动画
-+ 原画
-+ 特效
-+ CG
-+ UI
++ [场景、地形](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/EnvironmentDesign.md)
++ [模型、动画](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/CharacterDesign.md)
++ [原画](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/ConceptArt.md)
++ [特效](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/VisualEffects.md)
++ [CG](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/ComputerGraphics.md)
++ [UI](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/UserInterface.md)
 
 # 策划方向
 + 系统策划
@@ -77,9 +80,14 @@
     因为我本身是个程序，更喜欢以程序的方式进行交流。
     这是个可爱的、有序的、有趣的方式。
     我希望所有人都可以参与进来，一同完善，为更多的初学者开辟捷径。
-1. 视频评论
-2. 提交issure
-3. 提交pull request
+1. 视频评论     直接在视频下方留言，建议留言，而非弹幕。
+2. 提交issue    [如何提交]()
+3. 提交pull request     [如何提交]()
 4. 加入群聊
+- [交流群817222892](https://jq.qq.com/?_wv=1027&k=5btpDFc)
+- [聊天群871410657](https://jq.qq.com/?_wv=1027&k=5mNJjf9)
 5. 联系我
+- qq    ：  1183374433
+- 163   ：  passed@163.com
+- github：  https://github.com/ora-cat
 
