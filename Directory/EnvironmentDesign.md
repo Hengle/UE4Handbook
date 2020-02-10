@@ -1,5 +1,6 @@
 ### 游戏环境设计
 ### 有什么常用软件
++ Blender
 + Lumion
 + WorldMachine
 + Houdini

@@ -8,15 +8,15 @@
 # 关于入门
     本markdown文件类似目录，具有导向作用。
     没有天生的大佬，我喜欢学，恰巧你也喜欢学，便一起学习。
-+ [GoGoGo](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/AboutStart.md)
++ [使用说明](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/AboutStart.md)
 + [结合视频食用，口感更佳==>B站](http://www.bilibili.com)
 
 # 程序方向
 ## UE4
-+ [GamePlay框架](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/GamePlay.md)
-+ [Blueprint蓝图](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Blueprint.md)
-+ [C++魔改版](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/C++Client.md)
 + [Editor编辑器](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Editor.md)
++ [Blueprint蓝图](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Blueprint.md)
++ [GamePlay框架](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/GamePlay.md)
++ [C++魔改版](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/C++Client.md)
 + [Python脚本](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Python.md)
 + [实战项目](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Projects.md)
 ## 服务端
@@ -65,8 +65,6 @@
 
 # 团队协作
 ## 项目管理
-+ [teambition]()
-+ [禅道]()
 + [Slack]()
 ## 版本控制
 + [Git]()
@@ -82,6 +80,7 @@
     因为我本身是个程序，更喜欢以程序的方式进行交流。
     这是个可爱的、有序的、有趣的方式。
     我希望所有人都可以参与进来，一同完善，为更多的初学者开辟捷径。
++ [如何参与](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/JoinUs.md)
 1. 视频评论     直接在视频下方留言，建议留言，而非弹幕。
 2. 提交issue    [如何提交]()
 3. 提交pull request     [如何提交]()

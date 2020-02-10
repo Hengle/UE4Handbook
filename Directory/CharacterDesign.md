@@ -1,5 +1,6 @@
 ### 游戏人物设计
 ### 有什么常用软件
++ Blender
 + 3DStudioMax
 + Maya
 + C4D
