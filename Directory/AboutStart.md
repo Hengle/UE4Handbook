@@ -1,7 +1,12 @@
+    任何的学习都是有用处的。
+### 本项目或本系列视频适合的对象
++ 热爱游戏的人
++ 有时间的人
++ 想要进入游戏行业的人
++ 游戏行业从业者
 ### 什么是游戏开发
 + [结合视频食用，口感更佳==>B站](http://www.bilibili.com)
 + 是一个行业
-+ 国内游戏行业现状
 + 现代游戏开发
 ### 开发是一门技术，也是一门艺术。
 + 技术毋庸置疑
@@ -17,6 +22,7 @@
 + 技术文档
 + 等等
 ### 关于本项目
+* 项目地址：[https://github.com/ora-cat/UE4Handbook](https://github.com/ora-cat/UE4Handbook)
 * [关于](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/JoinUs.md)
 
 [<<<回主页-关于入门](https://github.com/ora-cat/UE4Handbook#%E5%85%B3%E4%BA%8E%E5%85%A5%E9%97%A8)

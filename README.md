@@ -5,9 +5,7 @@
     视频中有错误及遗漏会不定期修正，重录或添加修正说明。
     视频中存在大量通俗说法，严谨请移步官方教学视频。
 [官方学习传送门](https://www.unrealengine.com/zh-CN/onlinelearning-courses)
-# 关于入门
-    本markdown文件类似目录，具有导向作用。
-    没有天生的大佬，我喜欢学，恰巧你也喜欢学，便一起学习。
+# 关于本项目
 + [使用说明](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/AboutStart.md)
 + [结合视频食用，口感更佳==>B站](http://www.bilibili.com)
 
