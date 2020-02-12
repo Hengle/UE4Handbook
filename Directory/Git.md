@@ -53,11 +53,7 @@
 
 + 源仓库更变
 
-    git remote rm origin
-
-
-    git remote add origin ...
-
+    git remote set-url origin ...
 
 
 ### git的命令行日常操作
