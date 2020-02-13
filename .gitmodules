@@ -1,0 +1,3 @@
+[submodule "Projects/UE4Handbook_Project"]
+	path = Projects/UE4Handbook_Project
+	url = https://github.com/ora-cat/UE4Handbook_Project.git
