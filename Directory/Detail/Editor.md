@@ -1,7 +1,7 @@
 ### 编辑器是什么
 + 用UE4渲染出来的IDE
 + 说人话：用游戏做游戏
-+ PIE(Play In Editor)
++ 理解设计性
 ### 编辑器有什么
 + [官方说有什么就有什么](https://docs.unrealengine.com/zh-CN/GettingStarted/SubEditors/index.html)
 + 但是我还是要列举一下，一些官方也没有列出的小编辑界面
@@ -33,6 +33,5 @@
 + 一些快捷键
 + 窗口自定义
 + 资源引用
-+ 理解设计性
 
 [<<<回主页](https://github.com/ora-cat/UE4Handbook)

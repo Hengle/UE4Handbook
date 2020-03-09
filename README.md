@@ -1,41 +1,53 @@
 # UE4Handbook
     这是个学习手册，用于记录UE4学习历程,以及其它方向的杂谈。
-    本人是游戏行业从业者，才疏学浅，项目中错误、遗漏、可优化部分，望众大佬提出指正，我会虚心接受。
-    学习过程中，我会直播或录制视频，以供后来者参考借鉴。
-    视频中有错误及遗漏会不定期修正，重录或添加修正说明。
-    视频中存在大量通俗说法，严谨请移步官方教学视频。
-[官方学习传送门](https://www.unrealengine.com/zh-CN/onlinelearning-courses)
-# 关于本项目
-+ [使用说明](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/AboutStart.md)
-+ [结合视频食用，口感更佳==>B站](http://www.bilibili.com)
 
 # 入门
-### 下载与安装
-### 创建工程
-### 编辑器认识
-### 术语了解
+    为未接触过UE4引擎与3D游戏开发的人准备
+## 准备工作
+* 下载与安装
+* 启动器认识
+* 创建工程
+
+## 编辑器初步认识
+* 主视口
+* 模式
+* 世界大纲
+* 细节
+* 世界设置
+* 内容浏览器
+
+## 术语初步了解
+* 关卡
+* 蓝图
+* 网格物体
+* 材质、贴图、纹理
+* 粒子
+* 声音
+
+[入门>>>](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Start.md)
 
 # 实践
+    每一个部分包含一个或几个知识点，尽量为一个完整工程
 
-# 理论
+[实践>>>](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Practice.md)
 
 # 进阶
+    本部分包含的知识，对于新手来说可能无法快速理解
+
+[进阶>>>](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Advanced.md)
 
 # 话外
+    无关于UE4学习的部分，但也许有价值的东西。
+    
+[话外>>>](https://github.com/ora-cat/UE4Handbook/blob/master/Digression/)
 
-# 如何参与
-    因为我本身是个程序，更喜欢以程序的方式进行交流。
-    这是个可爱的、有序的、有趣的方式。
-    我希望所有人都可以参与进来，一同完善，为更多的初学者开辟捷径。
-+ [如何参与](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/JoinUs.md)
-1. 视频评论     直接在视频下方留言，建议留言，而非弹幕。
-2. 提交issue    [如何提交]()
-3. 提交pull request     [如何提交]()
-4. 加入群聊
-- [交流群817222892](https://jq.qq.com/?_wv=1027&k=5btpDFc)
-- [聊天群871410657](https://jq.qq.com/?_wv=1027&k=5mNJjf9)
-5. 联系我
-- qq    ：  1183374433
-- 163   ：  passed@163.com
-- github：  https://github.com/ora-cat
+# 关于
+* GitHub: https://github.com/ora-cat/UE4Handbook
+* 加入群聊
+    - 交流群 [817222892](https://jq.qq.com/?_wv=1027&k=5btpDFc)
+    - 聊天群 [871410657](https://jq.qq.com/?_wv=1027&k=5mNJjf9)
+* 联系我
+    - qq    ：  1183374433
+    - 163   ：  passed@163.com
+    - github：  https://github.com/ora-cat
 
