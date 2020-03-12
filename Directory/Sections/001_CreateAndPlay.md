@@ -5,10 +5,10 @@
     + 动态添加模板内容
 2. 试玩工程
     + Viewport
-        + Simulate
-        + New Window
-        + Standalone
-        + Mobile Preview
+        + 模拟(Simulate)
+        + 新窗口(New Window)
+        + 独立运行(Standalone)
+        + 移动设备预览(Mobile Preview)
         + 快捷键
             - F1(线框)
             - F2(无光照)

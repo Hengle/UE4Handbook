@@ -1,20 +1,20 @@
 # Modes - 模式
 1. 模式切换(Shift + (1-5))
-2. Place 放置
+2. 放置(Place)
     + 随意放置各类物体
     + 从内容浏览器放置物体
     + 试用BP_LightStudio(需添加StarterContent)
-3. Paint 绘制
+3. 绘制(Paint)
     + 设置材质
     + 基础尝试
-4. Landscape 地形
+4. 地形(Landscape)
     + 创建地形
     + 雕刻地形
     + 样条工具使用
-5. Foliage 植被
+5. 植被(Foliage)
     + 刷植被
     + 设置生成条件
-6. Geometry Editing 几何体编辑
+6. 几何体编辑(Geometry Editing)
     + 画刷(Brush)
         - 添加
         - 减去

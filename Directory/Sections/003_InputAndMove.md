@@ -8,46 +8,47 @@
     + 创建文件夹
     + 新增>蓝图类>Character>命名>打开
 3. 蓝图编辑器认识
-    + 组件
-        - SceneComponent
+    + 组件(Components)
+        - 场景组件(SceneComponent)
         - 非场景组件
-    + 我的蓝图
-        - 图表
+    + 我的蓝图(My Blueprint)
+        - 图表(Graphs)
             + BeginPlay
             + ActorBeginOverlap
             + Tick
-        - 函数
-            + construction(构造函数)
-        - 接口
+        - 函数(Functions)
+            + 构造函数(construction)
+        - 接口(Interfaces)
             + 外部声明，内部实现
-        - 宏
+        - 宏(Macros)
             + 多输入多输出
-        - 变量
+        - 变量(Variables)
             + 对象属性
             + 局部变量
-        - 事件调度器
+        - 事件调度器(Event Dispatchers)
             + 异步多驱动
-    + 类设置
-        - 添加蓝图接口
-    + 类默认值
-        - 方便实例设置
-    + 细节
+    + 工具栏(Toolbar)
+        - 类设置(Class Settings)
+            + 添加蓝图接口
+        - 类默认值(Class Defaults)
+            + 方便实例设置
+    + 细节(Details)
         - 类细节(即类默认值)
         - 组件细节
-    + 控制板
+    + 控制板(Palette)
         - 方法库
 4. 添加骨架网格物体
     - 调整高度
     - 调整方向
 5. 添加输入事件
-    - 移动Move
-    - 转身Turn
-    - 抬头Look
-    - 跳Jump
-    - 蹲Crouch
+    - 移动(Move)
+    - 转身(Turn)
+    - 抬头(Look)
+    - 跳(Jump)
+    - 蹲(Crouch)
 6. 添加弹簧臂与相机
-    - SpringArm
-    - Camera
+    - 弹簧臂(SpringArm)
+    - 相机(Camera)
 
 ## 学习目标
     1. 创建空角色蓝图

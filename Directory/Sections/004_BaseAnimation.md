@@ -3,33 +3,37 @@
     + 创建文件夹
     + 新增>动画>动画蓝图>选择父类>选择骨架>命名>打开
 2. 动画蓝图编辑器认识
-    + 视口
+    + 视口(ViewPort)
         - 旋转台
         - 预览动画
         - 录制动画
         - 播放动画
-    + 预览场景设置
-    + 动画预览编辑器
+    + 预览场景设置(Preview Scene Settings)
+    + 动画预览编辑器(Anim Preview Editor)
     
-    + 我的蓝图
-        - 事件图表
+    + 我的蓝图(My Blueprint)
+        - 图表(Graphs)
             + Blueprint Update Animation
             + Try Get Pawn Owner
-        - 动画图表
+        - 动画图表(Animation Graphs)
             + 计算输出姿势
-        - 动画层
+        - 动画层(Animation Layers)
             + 用于组织混合进入子图表的层
-    + 细节
+    + 细节(Details)
         + 动画播放细节
         + 状态机细节
         + 状态细节
         + 状态转换细节
     
     
-    + 动画资源浏览器
-    + 动画插槽管理器(蒙太奇部分)
-    + 资源覆盖编辑器(子动画部分)
-3. 状态机
+    + 动画资源浏览器(Asset Browser)
+    + 动画插槽管理器(Anim Slot Manager)
+    + 资源覆盖编辑器(Asset Override Editor)
+
+    + 工具栏
+        - 资源关联
+        - 更变动画蓝图骨骼
+3. 状态机(State Machines)
     + 理解状态机
         - 状态节点
         - 转移函数
