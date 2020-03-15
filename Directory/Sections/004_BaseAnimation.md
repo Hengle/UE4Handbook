@@ -13,6 +13,8 @@
     
     + 我的蓝图(My Blueprint)
         - 图表(Graphs)
+            + Blueprint Begin Play
+                - 不要在初始化时保存Pawn对象
             + Blueprint Update Animation
             + Try Get Pawn Owner
         - 动画图表(Animation Graphs)

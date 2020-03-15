@@ -36,3 +36,13 @@
 2. 混合空间
 3. 获取所需数据
 4. 使用混合空间
++ [007_SkeletonSocket](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Sections/007_SkeletonSocket.md)
+1. 创建骨骼插槽(Socket)  
+2. 调整骨骼插槽
+3. 附加到插槽
++ [008_AimOffset](https://github.com/ora-cat/UE4Handbook/blob/master/Directory/Sections/008_AimOffset.md)
+1. 目标偏移1D
+2. 目标偏移
+3. 创建所需资源
+4. 获取所需数据
+5. 使用目标偏移
