@@ -10,9 +10,7 @@
         - 以`AnimNotify_`开头
 * GamePlay框架
 * 动画系统
-    + 动态动画
+    + 动态动画(AnimDynamics)
     + Control Rig
     + 模块化角色
     + 布娃娃系统
-    + 复制姿势
-    + 动画共享
