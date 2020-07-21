@@ -94,6 +94,25 @@
     + Tick
 ### 类结构
 ### 反射
++ 多引脚节点  
+```
+UENUM(BlueprintType)
+enum class Result : uint8
+{
+	Success,
+	failed,
+};
+```
+```
+多出口
+UFUNCTION(BlueprintCallable,meta=(ExpandEnumAsExecs="res"))
+static void Test(Result& res);
+```
+```
+多出口
+UFUNCTION(BlueprintCallable,meta=(ExpandEnumAsExecs="res"))
+static void Test(TEnumAsByte<Result> res);
+```
 ### 编译
     + UBT
     + UHT
