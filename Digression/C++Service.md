@@ -14,4 +14,7 @@
 ### 分布式的一致性
 ### P2P穿透
 
+adb tcpip 5555
+adb connect 192.168.0.153
+
 [<<<回主页](https://github.com/ora-cat/UE4Handbook)
