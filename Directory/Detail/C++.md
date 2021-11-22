@@ -74,15 +74,61 @@
         TSparseArray
         TLinkedList
         TDoubleLinkedList
-    + 智能指针
-        TSharedPtr
-        TSharedRef
-        TWeakPtr
+### 智能指针
+    UE4中的智能指针主要用于管理原生对象，UObject自带GC不需要使用智能指针。
+    智能指针的核心在于引用计数。
+    正常情况下，自己new的指针可以使用智能指针管理。
+    但某些指针，如FSocket之类，属于模块管理的指针，不可delete的，不要用智能指针管理，会引发异常崩溃。
+    UE4的智能指针可选线程安全或非线程安全版本，根据需要选择。
 
+    TSharedPtr 共享指针
+        - 拥有对象
+        - 可以为空
+        - 非空时可转换为共享引用
+    TSharedRef 共享引用(非空共享指针)
+        - 拥有对象
+        - 不可为空
+        - 用于表明所有权
+        - 可转换为共享指针
+    TWeakPtr 弱指针
+        - 不拥有对象
+        - 可转换为共享指针
+    TUniquePtr 唯一指针
+        - 唯一拥有对象
+        - 可转移所有权
+        - 不应为共享指针或共享引用引用的对象创建唯一指针
+    函数
+        - MakeShared
+        构造函数需要为公有
+        - MakeShareable
+        构造函数可以为私有，但效率较低
+        自定义析构行为？
+        - StaticCastSharedRef
+        通常用于基类投射为衍生类
+        - StaticCastSharedPtr
+        通常用于基类投射为衍生类
+        - ConstCastSharedRef
+        作用于const智能引用
+        - ConstCastSharedPtr
+        作用于const智能指针
+    侵入性访问器
+        TSharedFromThis
+        - 子类拥有 AsShared 和 SharedThis 方法
+        - 非直接继承时，两个方法返回值不一致
+        - AsShared 返回源类
+        - SharedThis 返回当前类
+        - 两个方法不可在构造函数中使用
+        - 可以在外部直接调用两方法获得共享引用
+        - 也可以用于工厂类
+    投射：
+    - StaticCastSharedPtr
+    参数传递时：
+    - 作为const &传递，减少引用计数操作
+    其它：
         TWeakObjPtr
         TAutoPtr
         TScopedPtr
-        TUniquePtr
+        
 ### 模板
     + TSubclassOf
         提供 UClass 类型安全性的模板类
